@@ -1,3 +1,10 @@
+## 🔗 Live Demo
+[View Live](https://streamify-video-call-and-chat-app.onrender.com)
+
+> ⚠️ Note: This app is hosted on Render's free tier. 
+> If inactive for 15+ minutes, the server spins down and may take 30-40 seconds to load on first visit. Please wait a moment.
+
+
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
 Highlights:
